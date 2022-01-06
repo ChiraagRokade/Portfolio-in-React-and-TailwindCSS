@@ -174,7 +174,7 @@ function resume() {
                                             <ol className="list-decimal pl-9">
                                                 <li className="pt-4">Portfolio Website <a href="https://sandipchavan.in/" target='_blank' className='text-blue-500'>Visit Site</a></li>
                                                 <li className="pt-4">Agriculture-related information and online shopping <a href="http://bananahouse.co.in/" target='_blank' className='text-blue-500'>Visit Site</a></li>
-                                                <li> className="pt-4"Institute Website <a href="https://roshniparamedical.com/" target='_blank' className='text-blue-500'>Visit Site</a></li>
+                                                <li className="pt-4">Institute Website <a href="https://roshniparamedical.com/" target='_blank' className='text-blue-500'>Visit Site</a></li>
                                             </ol>
                                         </li>
                                         <li className="pt-4">Technique Support and Hardware Engineer — Remote desktop support, Software installation, Solve Software-related issue, Windows-related issue, Antivirus installation.</li>
