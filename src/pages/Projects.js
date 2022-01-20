@@ -32,7 +32,7 @@ function Projects() {
                             <div className='absolute inset-0 flex items-center justify-center flex-col opacity-0 bg-black hover:opacity-80'>
                                 <h2 className='text-4xl text-white font-merr font-semibold'>{project.title}</h2>
                                 {/* <button className='border-2 rounded border-white py-2 hover:bg-green-500 text-white px-5 mt-5'>LINK</button> */}
-                                <a href={project.link} target='_blank'><button className='border-2 rounded border-white py-2 hover:bg-green-500 text-white px-5 mt-5'>LINK</button></a>
+                                <a href={project.link} target='_blank' rel="noopener noreferrer"><button className='border-2 rounded border-white py-2 hover:bg-green-500 text-white px-5 mt-5'>LINK</button></a>
                             </div>
                         </div>
                     </div>
